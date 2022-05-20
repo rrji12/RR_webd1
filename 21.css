@@ -1,0 +1,25 @@
+.photo{
+    width: 50px;
+    height: 50px;
+    margin: auto;
+}
+.container{
+    width: 1000;
+    margin: auto;
+    background-color: rgb(red, rgb(113, 0, 128), blue);
+}
+.msg{
+background-color: brown;
+padding: 10px;
+border: yellow;
+margin: 20px 10px;
+width: 50px;
+}
+.left{
+    clear:both;
+    float:left;
+}
+.right{
+    clear:both;
+    float:right;
+}
