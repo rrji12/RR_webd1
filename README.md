@@ -1,2 +1,1 @@
-# RR_webd1
-Radhe Radhe
+A chatting application using Socket.io and Node.js
